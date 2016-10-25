@@ -13,6 +13,7 @@
 		D47BA6CD1DBF312700CFDB12 /* Doit2.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D47BA6CB1DBF312700CFDB12 /* Doit2.xcdatamodeld */; };
 		D47BA6CF1DBF312700CFDB12 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D47BA6CE1DBF312700CFDB12 /* Assets.xcassets */; };
 		D47BA6D21DBF312700CFDB12 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D47BA6D01DBF312700CFDB12 /* LaunchScreen.storyboard */; };
+		D4B8D2361DBF3830007D1F90 /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4B8D2351DBF3830007D1F90 /* Task.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D47BA6CE1DBF312700CFDB12 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D47BA6D11DBF312700CFDB12 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D47BA6D31DBF312700CFDB12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D4B8D2351DBF3830007D1F90 /* Task.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				D47BA6C41DBF312700CFDB12 /* AppDelegate.swift */,
 				D47BA6C61DBF312700CFDB12 /* ViewController.swift */,
+				D4B8D2351DBF3830007D1F90 /* Task.swift */,
 				D47BA6C81DBF312700CFDB12 /* Main.storyboard */,
 				D47BA6CE1DBF312700CFDB12 /* Assets.xcassets */,
 				D47BA6D01DBF312700CFDB12 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D4B8D2361DBF3830007D1F90 /* Task.swift in Sources */,
 				D47BA6CD1DBF312700CFDB12 /* Doit2.xcdatamodeld in Sources */,
 				D47BA6C71DBF312700CFDB12 /* ViewController.swift in Sources */,
 				D47BA6C51DBF312700CFDB12 /* AppDelegate.swift in Sources */,
@@ -306,6 +310,7 @@
 				D47BA6D81DBF312700CFDB12 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
