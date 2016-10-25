@@ -31,6 +31,7 @@
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" title="Do It" id="cG4-ou-zZ3">
+                        <barButtonItem key="backBarButtonItem" title="Back" id="QsF-tR-3Xz"/>
                         <barButtonItem key="rightBarButtonItem" systemItem="add" id="ozM-Qg-cOS">
                             <connections>
                                 <action selector="plusTapped:" destination="BYZ-38-t0r" id="pCP-PP-atR"/>
