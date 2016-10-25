@@ -8,3 +8,4 @@ This app is from the "How to Make a Freaking iPhone App - iOS 10 and Swift3" cou
 - 10/25 1:30AM - Made initial commit, added read me
 - 10/25 1:47AM - Finished lecture 57, it builds and shows a table view with "Hello" in each row
 - 10/25 2:10AM - Finished lecture 58, it builds and shows a table view with Tasks' name and importance (via ❗️)
+- 10/25 2:31AM - Finished lecture 59, it builds and shows a new view when the "+" button is pressed
